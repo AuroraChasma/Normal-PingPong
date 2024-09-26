@@ -1,2 +1,2 @@
 # Normal-PingPong
-usisng C++ and SDL2
+using C++ and SDL2
