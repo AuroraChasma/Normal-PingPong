@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/mutahir/Downloads/PingPong_SDL/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/PingPong_SDL.dir/src/main.cpp.o -c /home/mutahir/Downloads/PingPong_SDL/src/main.cpp",
+  "file": "/home/mutahir/Downloads/PingPong_SDL/src/main.cpp",
+  "output": "CMakeFiles/PingPong_SDL.dir/src/main.cpp.o"
+}
+]

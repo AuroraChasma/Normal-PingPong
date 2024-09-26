@@ -1,0 +1,3 @@
+/home/mutahir/Downloads/PingPong_SDL/build/CMakeFiles/PingPong_SDL.dir
+/home/mutahir/Downloads/PingPong_SDL/build/CMakeFiles/edit_cache.dir
+/home/mutahir/Downloads/PingPong_SDL/build/CMakeFiles/rebuild_cache.dir

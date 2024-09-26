@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/PingPong_SDL.dir/src/main.cpp.o -o PingPong_SDL  -lSDL2main -lSDL2 
